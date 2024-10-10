@@ -1,5 +1,4 @@
 import { getNoticiaById } from '@/app/services/noticias';
-import { Noticia } from '@/app/types/noticia';
 import Link from 'next/link';
 import Comentarios from '@/app/components/comentario';
 
